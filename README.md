@@ -25,7 +25,7 @@ The dataset contains sales transaction details used to generate insights such as
 - Created pivot tables based on the defined business questions
 - Consolidated all pivot tables into a single interactive dashboard
 - Applied slicers to enable dynamic filtering and better user interaction
-- Dashboard Overview - <a href= "https://github.com/SARIKA24KADAM/Data-Analysis-Dashboard/blob/main/Data%20Analysis.png"/a>
+- Dashboard Overview - <a href= "https://github.com/SARIKA24KADAM/Data-Analysis-Dashboard/blob/main/Data%20Analysis.png"> View Dashboard</a>
 
 An interactive Excel dashboard was built to visually represent key business metrics and allow easy exploration of sales performance trends.
 
