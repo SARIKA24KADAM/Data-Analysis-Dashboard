@@ -30,11 +30,12 @@ The dataset contains sales transaction details used to generate insights such as
 An interactive Excel dashboard was built to visually represent key business metrics and allow easy exploration of sales performance trends.
 
 Key Insights
-Women customers contribute the majority of purchases (~65%)
-Top contributing states are Maharashtra, Karnataka, and Uttar Pradesh
-The adult age group (30–49 years) accounts for nearly 50% of total sales
-Amazon, Flipkart, and Myntra are the leading sales channels
-Over 90% of orders were successfully delivered
+- Women customers contribute the majority of purchases (~65%)
+- Top contributing states are Maharashtra, Karnataka, and Uttar Pradesh
+- The adult age group (30–49 years) accounts for nearly 50% of total sales
+-- Amazon, Flipkart, and Myntra are the leading sales channels
+- Over 90% of orders were successfully delivered
+
 Final Conclusion
 
 To increase sales, Vrinda Store should focus its marketing strategy on women aged 30–49 years in Maharashtra, Karnataka, and Uttar Pradesh. This segment represents the most valuable customer group due to their high purchasing power and consistent buying behavior. Targeted digital campaigns and personalized offers can significantly improve engagement and boost overall sales performance in the coming years
