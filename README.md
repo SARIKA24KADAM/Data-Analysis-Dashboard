@@ -37,6 +37,7 @@ Key Insights
 - Over 90% of orders were successfully delivered
 
 ## Dashboard 
+<img width="1214" height="550" alt="Data Analysis" src="https://github.com/user-attachments/assets/63870698-4eea-4747-9600-3e011441a986" />
 
 Final Conclusion
 
