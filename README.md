@@ -10,22 +10,22 @@ The objective of this project is to analyze Vrinda Store’s 2022 sales data and
 The dataset contains sales transaction details used to generate insights such as customer demographics, order status, sales performance, and sales channels.
 
 ## Key Business Questions (KPIs)
-Compare sales and order trends using a single chart
-Identify the month with the highest sales and orders
-Analyze purchase behavior: men vs women
-Evaluate different order statuses in 2022
-List the top 10 states contributing to sales
-Study the relationship between age group and gender based on orders
-Determine the most contributing sales channel
-Identify the highest-selling product category
-Calculate the percentage of total orders delivered
-Process Followed
-Checked the dataset for missing values and anomalies and cleaned it accordingly
-Standardized data formats and ensured consistency across all fields
-Created pivot tables based on the defined business questions
-Consolidated all pivot tables into a single interactive dashboard
-Applied slicers to enable dynamic filtering and better user interaction
-Dashboard Overview
+- Compare sales and order trends using a single chart
+- Identify the month with the highest sales and orders
+- Analyze purchase behavior: men vs women
+- Evaluate different order statuses in 2022
+- List the top 10 states contributing to sales
+- Study the relationship between age group and gender based on orders
+- Determine the most contributing sales channel
+- Identify the highest-selling product category
+- Calculate the percentage of total orders delivered
+- Process Followed
+- Checked the dataset for missing values and anomalies and cleaned it accordingly
+- Standardized data formats and ensured consistency across all fields
+- Created pivot tables based on the defined business questions
+- Consolidated all pivot tables into a single interactive dashboard
+- Applied slicers to enable dynamic filtering and better user interaction
+- Dashboard Overview <a href= "https://github.com/SARIKA24KADAM/Data-Analysis-Dashboard/blob/main/Data%20Analysis.png">
 
 An interactive Excel dashboard was built to visually represent key business metrics and allow easy exploration of sales performance trends.
 
