@@ -39,6 +39,6 @@ Key Insights
 ## Dashboard 
 <img width="1214" height="550" alt="Data Analysis" src="https://github.com/user-attachments/assets/63870698-4eea-4747-9600-3e011441a986" />
 
-Final Conclusion
+## Final Conclusion
 
 To increase sales, Vrinda Store should focus its marketing strategy on women aged 30–49 years in Maharashtra, Karnataka, and Uttar Pradesh. This segment represents the most valuable customer group due to their high purchasing power and consistent buying behavior. Targeted digital campaigns and personalized offers can significantly improve engagement and boost overall sales performance in the coming years
