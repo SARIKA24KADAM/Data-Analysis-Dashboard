@@ -36,6 +36,8 @@ Key Insights
 -- Amazon, Flipkart, and Myntra are the leading sales channels
 - Over 90% of orders were successfully delivered
 
+## Dashboard 
+
 Final Conclusion
 
 To increase sales, Vrinda Store should focus its marketing strategy on women aged 30–49 years in Maharashtra, Karnataka, and Uttar Pradesh. This segment represents the most valuable customer group due to their high purchasing power and consistent buying behavior. Targeted digital campaigns and personalized offers can significantly improve engagement and boost overall sales performance in the coming years
