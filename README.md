@@ -5,7 +5,7 @@ The objective of this project is to analyze Vrinda Store’s 2022 sales data and
 
 ## Dataset Used
 - <a href= "https://github.com/SARIKA24KADAM/Data-Analysis-Dashboard/blob/main/Data%20Analysis.xlsx"> Dataset
-- 
+  
 ## Dataset Overview
 The dataset contains sales transaction details used to generate insights such as customer demographics, order status, sales performance, and sales channels.
 
